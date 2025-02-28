@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 ## Project Structure
 ```
-flask-unit-test-1/
+flask-unit-test-2/
 │-- app.py        # Main Flask application
 │-- test_app.py   # Unit tests for Flask app
 │-- requirements.txt  # Dependencies
