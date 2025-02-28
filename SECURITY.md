@@ -90,6 +90,7 @@ flask db history
 ---
 
 💡 **Flask-Migrate Benefits**
+---
 ✔️ Handles database changes safely  
 ✔️ Works with different database engines (PostgreSQL, MySQL, SQLite, etc.)  
 ✔️ No need to drop tables manually  
