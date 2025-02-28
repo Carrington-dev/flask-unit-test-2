@@ -1,4 +1,4 @@
-from app import app
+from src import app
 from pytest import fixture
 
 @fixture
